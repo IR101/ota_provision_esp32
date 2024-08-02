@@ -1,0 +1,11 @@
+build
+.devcontainer
+.vscode
+sdkconfig.ci
+sdkconfig.ci.flash_enc_wifi
+sdkconfig.ci.on_update_no_sb_ecdsa
+sdkconfig.ci.on_update_no_sb_rsa
+sdkconfig.ci.spiram
+sdkconfig.ci.tls1_3
+sdkconfig.defaults
+sdkconfig.old
